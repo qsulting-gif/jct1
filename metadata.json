@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Concept Studio",
+  "description": "A powerful workspace to generate concepts, analyze media, and refine ideas using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

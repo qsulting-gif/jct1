@@ -6,12 +6,21 @@
 
 This contains everything you need to run your app locally.
 
+## Concise Overview
+
+Gemini Concept Studio is a lightweight AI Studio web app for quickly generating and refining creative concepts, producing small HTML prototypes, and analyzing images using Gemini models. It's ideal for rapid ideation, HTML learning/prototyping, and iterative refinement.
+
+Key features:
+- Generate text concepts, HTML examples, or analyze images
+- Refine outputs with targeted instructions to iterate quickly
+- Persist theme preferences and keep a timestamped result history
+- Choose Gemini models to balance quality and cost
+
 View your app in AI Studio: https://ai.studio/apps/drive/13xeT9zRx0FDlTxLM36WfwxWCgR_xOLQG
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
